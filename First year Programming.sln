@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Homework 2 - Craps", "Craps Homework\Craps Homework.vcxproj", "{121651BF-8196-49A1-B5CA-5886D64460D7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Homework 1 - Kinematics", "..\Homework 1- Kinematics\Homework 1\Homework 1.vcxproj", "{7CCD81DD-CBF6-411F-A331-7B09D7808AEB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Homework 3 - Risk", "..\Homework 3-Risk\Risk Homework\Risk Homework.vcxproj", "{DA1F9964-8CAD-4114-808A-C6F2ED2EEE0C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Homework 4 - Rot13", "..\Homework 4-Test analysis\lentil\lentil.vcxproj", "{B4D659B5-439E-4240-9014-66C95B3CC566}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Homework 5 - Go Fish", "..\Homework 5 mollywhop\Homework 5 mollywhop\Homework 5 mollywhop.vcxproj", "{6672659A-EBCA-4389-A66B-96B245AAC5F1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Homework 6- Yahtzee", "..\Homework 6- Yahtzee\Homework 6- Yahtzee\Homework 6- Yahtzee.vcxproj", "{1B2FBC9C-D67D-4A38-AA7C-8422D251B16A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{121651BF-8196-49A1-B5CA-5886D64460D7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{121651BF-8196-49A1-B5CA-5886D64460D7}.Debug|Win32.Build.0 = Debug|Win32
+		{121651BF-8196-49A1-B5CA-5886D64460D7}.Release|Win32.ActiveCfg = Release|Win32
+		{121651BF-8196-49A1-B5CA-5886D64460D7}.Release|Win32.Build.0 = Release|Win32
+		{7CCD81DD-CBF6-411F-A331-7B09D7808AEB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7CCD81DD-CBF6-411F-A331-7B09D7808AEB}.Debug|Win32.Build.0 = Debug|Win32
+		{7CCD81DD-CBF6-411F-A331-7B09D7808AEB}.Release|Win32.ActiveCfg = Release|Win32
+		{7CCD81DD-CBF6-411F-A331-7B09D7808AEB}.Release|Win32.Build.0 = Release|Win32
+		{DA1F9964-8CAD-4114-808A-C6F2ED2EEE0C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DA1F9964-8CAD-4114-808A-C6F2ED2EEE0C}.Debug|Win32.Build.0 = Debug|Win32
+		{DA1F9964-8CAD-4114-808A-C6F2ED2EEE0C}.Release|Win32.ActiveCfg = Release|Win32
+		{DA1F9964-8CAD-4114-808A-C6F2ED2EEE0C}.Release|Win32.Build.0 = Release|Win32
+		{B4D659B5-439E-4240-9014-66C95B3CC566}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B4D659B5-439E-4240-9014-66C95B3CC566}.Debug|Win32.Build.0 = Debug|Win32
+		{B4D659B5-439E-4240-9014-66C95B3CC566}.Release|Win32.ActiveCfg = Release|Win32
+		{B4D659B5-439E-4240-9014-66C95B3CC566}.Release|Win32.Build.0 = Release|Win32
+		{6672659A-EBCA-4389-A66B-96B245AAC5F1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6672659A-EBCA-4389-A66B-96B245AAC5F1}.Debug|Win32.Build.0 = Debug|Win32
+		{6672659A-EBCA-4389-A66B-96B245AAC5F1}.Release|Win32.ActiveCfg = Release|Win32
+		{6672659A-EBCA-4389-A66B-96B245AAC5F1}.Release|Win32.Build.0 = Release|Win32
+		{1B2FBC9C-D67D-4A38-AA7C-8422D251B16A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1B2FBC9C-D67D-4A38-AA7C-8422D251B16A}.Debug|Win32.Build.0 = Debug|Win32
+		{1B2FBC9C-D67D-4A38-AA7C-8422D251B16A}.Release|Win32.ActiveCfg = Release|Win32
+		{1B2FBC9C-D67D-4A38-AA7C-8422D251B16A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
